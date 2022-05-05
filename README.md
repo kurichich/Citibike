@@ -37,17 +37,24 @@
 \
 \
 ![image](https://user-images.githubusercontent.com/98435855/166849232-063601e9-70a8-41b1-b97a-a4472e1e8ffe.png)
-Top Ending Locations:  Most destinations ended in the financial district of NYC, followed by the tourist areas of the City.
+- Top Ending Locations:  Most destinations ended in the financial district of NYC, followed by the tourist areas of the City.
 \
 \
 \
 \
 ![image](https://user-images.githubusercontent.com/98435855/166849444-13592eec-3c5c-480b-9a34-b736cd6cb267.png)
 - Peak Demand Times in August:  Since August was identified as the busiest summer month to select a sample size, the peak hours were during popular commute times, before and after a normal workday.
-\
-\
-\
-\
+
+
+
 ## Summary
--- Using data analytics and Tableau, there are several highlights from the NYC Bikeshare Program that can help establish a similar program elsewhere:
---- Subscribers were the majority of bike users during peak commute times, creating a predictable and consistent base of users.
+### Using data analytics and Tableau, there are several highlights from the NYC Bikeshare Program that can help establish a similar program elsewhere:
+  1. Subscribers were the majority of bike users during peak commute times, creating a predictable and consistent base of users.
+  2. The duration of most bike rentals was 10 to 30 minutes in length.
+  3. Males comprised the highest usage by gender.
+  4. The highest concentration of destinations were in the congested areas of NYC.
+
+### A couple of suggestions for additional analysis:
+  1. The duration of bike trips on the weekends in August, relative to the starting and ending destinations.
+  2. 
+  3. 
