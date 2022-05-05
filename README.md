@@ -5,6 +5,8 @@
 - Part of the data that was extracted and used for analysis contained a date format that needed to be transformed in Pandas to a usable datatype for visualizations in Tableau.
 
 ## Results
+
+  - [https://public.tableau.com/app/profile/kevin.urichich]  Link to Tableau
   
 ![image](https://user-images.githubusercontent.com/98435855/166847569-61e04dc3-8188-41d2-a159-096b32fb6ff3.png)
 - Checkout Times for Users: The most common checkout times were within a twenty minute time duration.  After forty five minutes, only a fraction of the bikes were still checked out.
