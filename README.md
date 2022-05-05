@@ -55,6 +55,5 @@
   4. The highest concentration of destinations were in the congested areas of NYC.
 
 ### A couple of suggestions for additional analysis:
-  1. The duration of bike trips on the weekends in August, relative to the starting and ending destinations.
-  2. 
-  3. 
+  1. The duration of bike trips on the weekends, relative to the starting and ending destinations.
+  2. The highest demand for starting and ending locations, comparing customers with subscribers. 
